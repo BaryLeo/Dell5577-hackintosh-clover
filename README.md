@@ -36,3 +36,7 @@ Dell5577配置：
 |  USB： | 2.0没问题，3.0应该没弄好。但插3.0设备时先插一点(假装是2.0设备),等待完全读取后再完全插入   |
 
 其他问题有待发现。
+
+![hd](https://github.com/Wmyaaa/Dell5577-hackintosh-clover/blob/master/pic/屏幕快照%202019-04-16%20下午8.06.56.png)
+![hd2](https://github.com/Wmyaaa/Dell5577-hackintosh-clover/blob/master/pic/屏幕快照%202019-04-16%20下午8.07.55.png)
+![hd3](https://github.com/Wmyaaa/Dell5577-hackintosh-clover/blob/master/pic/屏幕快照%202019-04-16%20下午8.08.16.png)
